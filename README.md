@@ -7,3 +7,6 @@ https://docs.google.com/document/d/1jIJveMnq-i3c8evZdjDmClf9bOYcdrR8P-Z8b3YP2Yo/
 
 Prize Distribution Logic Flowchart:
 https://docs.google.com/drawings/d/17XlPBYI1ibEMch3JgEvyBQpqBqAxEIl5Vv65f1o09d0/edit?usp=sharing
+
+Prize Determination Calls Flowchart:
+https://docs.google.com/drawings/d/11N4yalwt_Zn9llmj-hHObhD4-hC2T_I0Ocb7k1Xs6TE/edit
