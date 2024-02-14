@@ -2,6 +2,12 @@
 WebGL Build:
 https://philongames.github.io/GKsafe1/
 
+Windows Build:
+https://drive.google.com/drive/u/0/folders/16iWraErSqbicxnwPuNzuV7F209krSLlK
+
+Android Build:
+https://drive.google.com/drive/folders/1kcQ8pIqXqYbc3T8o9GcnTP5Kw3MWUH0r?usp=sharing
+
 Game Design Documentation:
 https://docs.google.com/document/d/1dWidmlTT_G3MUdgg5og91SV8ss6WJzlzW-IYcA7Vofs/edit
 
