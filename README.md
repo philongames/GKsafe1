@@ -21,8 +21,7 @@ https://drive.google.com/drive/folders/1kcQ8pIqXqYbc3T8o9GcnTP5Kw3MWUH0r?usp=sha
 **Game Design Documentation:**
 https://docs.google.com/document/d/1dWidmlTT_G3MUdgg5og91SV8ss6WJzlzW-IYcA7Vofs/edit
 
-**Tecnical Design Documentation: **
-
+**Tecnical Design Documentation:**
 https://docs.google.com/document/d/1jIJveMnq-i3c8evZdjDmClf9bOYcdrR8P-Z8b3YP2Yo/edit#heading=h.itoj5tywdcz4
 
 **Prize Distribution Logic Flowchart:**
