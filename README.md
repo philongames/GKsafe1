@@ -1,4 +1,5 @@
 # GKsafe1
+Wager and win real money in this unique prize wheel based gameplay experience!
 
 # About
 Mr Moneybags Levels a Challenge at the Safe-Cracking World
